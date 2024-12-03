@@ -1,0 +1,10 @@
+C:\Users\guim9\Desktop\-\Work\CPU Monitor\bin\Debug\CPU Monitor.exe.config
+C:\Users\guim9\Desktop\-\Work\CPU Monitor\bin\Debug\CPU Monitor.exe
+C:\Users\guim9\Desktop\-\Work\CPU Monitor\bin\Debug\CPU Monitor.pdb
+C:\Users\guim9\Desktop\-\Work\CPU Monitor\obj\Debug\CPU Monitor.csproj.AssemblyReference.cache
+C:\Users\guim9\Desktop\-\Work\CPU Monitor\obj\Debug\CPU_Monitor.Form1.resources
+C:\Users\guim9\Desktop\-\Work\CPU Monitor\obj\Debug\CPU_Monitor.Properties.Resources.resources
+C:\Users\guim9\Desktop\-\Work\CPU Monitor\obj\Debug\CPU Monitor.csproj.GenerateResource.cache
+C:\Users\guim9\Desktop\-\Work\CPU Monitor\obj\Debug\CPU Monitor.csproj.CoreCompileInputs.cache
+C:\Users\guim9\Desktop\-\Work\CPU Monitor\obj\Debug\CPU Monitor.exe
+C:\Users\guim9\Desktop\-\Work\CPU Monitor\obj\Debug\CPU Monitor.pdb
